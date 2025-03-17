@@ -1,5 +1,6 @@
 # Setting Up Prerequisites to Create an EKS Cluster on Bare Metal or Laptop
 
+
 ## Install Required Tools
 1. **AWS CLI**  
    The AWS Command Line Interface (CLI) enables you to interact with AWS services from the command line.
